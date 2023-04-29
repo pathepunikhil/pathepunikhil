@@ -138,4 +138,3 @@ Outputs:
       Path: '/'
       ManagedPolicyArns:
         - 'arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole'
-        nikhil
