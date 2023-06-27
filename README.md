@@ -1,9 +1,9 @@
-#Web Application using AWS Amplify, Lambda, API Gateway, DynamoDB, and IAM
+# Web Application using AWS Amplify, Lambda, API Gateway, DynamoDB, and IAM
 
-##Introduction
+## Introduction
 This README file provides an overview of a web application built using AWS Amplify, Lambda, API Gateway, DynamoDB, and IAM. The web application is designed to provide a simple and scalable solution for building modern web applications.
 
-##Getting Started
+## Getting Started
 To get started with the web application, you will need an AWS account. Once you have an AWS account, you can follow the steps below to deploy the application:
 
 Install the Amplify CLI by running the following command:
