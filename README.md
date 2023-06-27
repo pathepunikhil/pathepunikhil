@@ -10,6 +10,12 @@ Hello! I'm Nikhil, a passionate software developer. I am an avid learner and enj
  - Operating Systems : Linux (Red Hat 6/7) and Window
  - Configuration Management: Ubuntu
  - Version Control : GIT and GIT Hub
+ ### tools
+ - Jenkins
+ - Docker
+ - Tomcat
+ - Terraform
+ - Python
 
 ## Projects
 
