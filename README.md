@@ -1,48 +1,35 @@
-# Web Application using AWS Amplify, Lambda, API Gateway, DynamoDB, and IAM
+# [NIKHIL p]
 
 ## Introduction
-This README file provides an overview of a web application built using AWS Amplify, Lambda, API Gateway, DynamoDB, and IAM. The web application is designed to provide a simple and scalable solution for building modern web applications.
 
-## Getting Started
-To get started with the web application, you will need an AWS account. Once you have an AWS account, you can follow the steps below to deploy the application:
+Hello! I'm [Nikhil], a passionate [software developer]. I am an avid learner and enjoy exploring new technologies and tools. With a strong background in [Amazon web service], I strive to create innovative and efficient solutions for complex problems.
 
-Install the Amplify CLI by running the following command:
-bash
+## Skills and Expertise
 
-npm install -g @aws-amplify/cli
-Configure the Amplify CLI by running the following command:
+ - [Cloud Technologies : Amazon Web Services]
+ - [Operating Systems : Linux (Red Hat 6/7) and Window]
+ - [Configuration Management: Ubuntu]
+ - [Version Control : GIT and GIT Hub]
 
-amplify configure
-Create a new Amplify project by running the following command:
-csharp
+## Projects
 
-amplify init
-Add a Lambda function by running the following command:
-sql
+Here are some of the projects I have worked on:
 
-amplify add function
-Add an API Gateway by running the following command:
-csharp
+- [Project 1: Web Application using AWS Amplify, Lambda, API Gateway, DynamoDB, and IAM]
+- [Project 2: Deploy an app to a GKE cluster for git hub repo]
 
-amplify add api
-Add a DynamoDB table by running the following command:
-csharp
 
-amplify add storage
-Deploy the application by running the following command:
-perl
+## Contact
 
-amplify push
-Architecture
-The web application is built using a serverless architecture. The application uses AWS Lambda for serverless compute, API Gateway for RESTful API endpoints, DynamoDB for serverless storage, and IAM for access control.
+If you have any questions, ideas, or opportunities to collaborate, feel free to reach out to me:
 
-The front-end of the application can be built using any web development framework, such as React, Angular, or Vue. The front-end communicates with the back-end using API Gateway.
+- Email: [pathepunikhil@gmail.com]
+- LinkedIn: [(https://www.linkedin.com/in/nikhil-pathepu-b8a316273/)]
 
-The back-end of the application is built using AWS Lambda and DynamoDB. The Lambda functions are responsible for processing requests from API Gateway and performing operations on the DynamoDB table.
+I'm always excited to connect with like-minded individuals and explore new possibilities. Let's create something amazing together!
 
-The DynamoDB table is used to store data for the web application. The table can be configured to automatically scale to handle increasing amounts of data.
+## Additional Information
 
-Access control for the application is handled using IAM. IAM policies are used to control access to the Lambda functions, API Gateway endpoints, and DynamoDB table.
+You can find more information about my work, projects, and contributions on my GitHub profile: [github.com/pathepunikhil]
 
-Conclusion
-The web application built using AWS Amplify, Lambda, API Gateway, DynamoDB, and IAM provides a scalable and efficient solution for building modern web applications. With the power of AWS, developers can build applications that can handle large amounts of data and traffic, while also ensuring security and access control.
+Thank you for taking the time to read my bio. I look forward to connecting with you!
