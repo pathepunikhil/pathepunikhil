@@ -38,4 +38,4 @@ I'm always excited to connect with like-minded individuals and explore new possi
 
 You can find more information about my work, projects, and contributions on my GitHub profile: {github.com/pathepunikhil}
 
-Thank you for taking the time to read my bio. I look forward to connecting with you!
+Thank you for taking the time to read my bio. I look forward to connecting with you! 
