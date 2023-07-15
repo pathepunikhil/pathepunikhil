@@ -17,7 +17,7 @@ Hello! I'm Nikhil, a passionate software developer. I am an avid learner and enj
  - Terraform
  - Python
 
-## Projects
+## Projects 
 
 Here are some of the projects I have worked on:
 
