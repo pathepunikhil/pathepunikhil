@@ -14,7 +14,7 @@ Hello! I'm Nikhil, a passionate software developer. I am an avid learner and enj
  - Jenkins
  - Docker
  - Tomcat
- - Terraform
+ - Terraform 
  - Python
 
 ## Projects 
