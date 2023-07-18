@@ -5,7 +5,7 @@
 Hello! I'm Nikhil, a passionate software developer. I am an avid learner and enjoy exploring new technologies and tools. With a strong background in Amazon web service, I strive to create innovative and efficient solutions for complex problems.
 
 ## Skills and Expertise
-
+ 
  - Cloud Technologies : Amazon Web Services
  - Operating Systems : Linux (Red Hat 6/7) and Window
  - Configuration Management: Ubuntu
