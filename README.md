@@ -23,6 +23,7 @@ Here are some of the projects I have worked on:
 
 - Project 1: Web Application using AWS Amplify, Lambda, API Gateway, DynamoDB, and IAM
 - Project 2: Deploy an app to a GKE cluster for git hub repo
+- Project 3: KMS KEY 
 
 
 ## Contact
