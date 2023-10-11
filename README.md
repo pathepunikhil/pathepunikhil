@@ -3,9 +3,8 @@
 
 
 ##  About Me ..
-### I'M working as a DevOps Engineer.
+  I'M working as a DevOps Engineer.
 ##  📫 How to reach me ...
-![1695667125012](https://github.com/pathepunikhil/AWS-S3-Pre-signed-URL-with-AWS-Cognito-Auth-and-Encrypted-S3-Data/assets/131676013/c93ca350-dfb0-4e29-9c76-b8c40d292c8c)
 
 
 <!---
