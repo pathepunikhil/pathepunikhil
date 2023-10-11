@@ -4,7 +4,7 @@
 ##  About Me ..
 ### I'M working as a DevOps Engineer.
 ##  📫 How to reach me ...
-[![Instagram Logo](https://https:/www.instagram.com/pathepu_nikhil/image.jpg)](https://www.instagram.com/your_username/)
+[![Instagram Logo](https://https:/www.instagram.com/pathepu_nikhil/image.jpg)](https://www.instagram.com/pathepu_nikhil/)
 
 
 <!---
