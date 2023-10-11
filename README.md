@@ -1,6 +1,5 @@
 #                                     👋 Hi, I’m NIKHIHL p
-![output-onlinegiftools](https://github.com/pathepunikhil/AWS-S3-Pre-signed-URL-with-AWS-Cognito-Auth-and-Encrypted-S3-Data/assets/131676013/9f49e912-27dd-43d3-991d-811fd3fa3c41)  
-
+![About-us-Temp-to-Perm](https://github.com/pathepunikhil/AWS-S3-Pre-signed-URL-with-AWS-Cognito-Auth-and-Encrypted-S3-Data/assets/131676013/bdcfd0f6-ec77-4972-91db-4489f6d40aea)
 
 ##  About Me ..
 I'M working as a DevOps Engineer
