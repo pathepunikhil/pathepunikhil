@@ -7,7 +7,7 @@ Hello! I'm Nikhil, a passionate software developer. I am an avid learner and enj
 ## Skills and Expertise
  
  - Cloud Technologies : Amazon Web Services
- - Operating Systems : Linux (Red Hat 6/7) and Window
+ - Operating Systems : Linux and Window
  - Configuration Management: Ubuntu
  - Version Control : GIT and GIT Hub
  ### tools
@@ -24,6 +24,7 @@ Here are some of the projects I have worked on:
 - Project 1: Web Application using AWS Amplify, Lambda, API Gateway, DynamoDB, and IAM
 - Project 2: Deploy an app to a GKE cluster for git hub repo
 - Project 3: AWS KMS Key Encrypt & Decrypt with Data Key
+- Project 4: S3 presinged url & Encryption of data 
 
 
 ## Contact
