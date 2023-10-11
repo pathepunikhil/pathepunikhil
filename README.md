@@ -1,6 +1,5 @@
 #-                                          👋 Hi, I’m NIKHIHL p
-
-            ![output-onlinegiftools](https://github.com/pathepunikhil/AWS-S3-Pre-signed-URL-with-AWS-Cognito-Auth-and-Encrypted-S3-Data/assets/131676013/9f49e912-27dd-43d3-991d-811fd3fa3c41)  
+![output-onlinegiftools](https://github.com/pathepunikhil/AWS-S3-Pre-signed-URL-with-AWS-Cognito-Auth-and-Encrypted-S3-Data/assets/131676013/9f49e912-27dd-43d3-991d-811fd3fa3c41)  
 
 ##- 👀 I’m interested in ...
 ##- 🌱 I’m currently learning ...
