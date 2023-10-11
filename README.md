@@ -4,6 +4,8 @@
 
 ##  About Me ..
   I'M working as a DevOps Engineer.
+## Good at ..
+  AWS || Jira || Jenkins|| Docker || Kubernetes || Linux || Git || Devops || Python || experience in AWS cloud, Terraform and monitoring tool ||
 ##  📫 How to reach me ...
 
 
