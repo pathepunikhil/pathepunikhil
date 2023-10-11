@@ -8,7 +8,8 @@
   AWS || Jira || Jenkins|| Docker || Kubernetes || Linux || Git || Devops || Python || experience in AWS cloud, Terraform and monitoring tool ||
 ##  📫 How to reach me ...
 
-[![pngtree-mail-icon-vector-illustration-in-line-style-for-any-purpose-png-image_996816](https://github.com/pathepunikhil/AWS-S3-Pre-signed-URL-with-AWS-Cognito-Auth-and-Encrypted-S3-Data/assets/131676013/133778d4-f289-40de-b79a-11c3de700263)](https://www.instagram.com/pathepu_nikhil/)
+[![pngtree-mail-icon-vector-illustration-in-line-style-for-any-purpose-png-image_996816](https://www.instagram.com/pathepu_nikhil/)]
+
 
 
 <!---
