@@ -8,7 +8,11 @@
   AWS || Jira || Jenkins|| Docker || Kubernetes || Linux || Git || Devops || Python || experience in AWS cloud, Terraform and monitoring tool ||
 ##  📫 How to reach me ...
 
-[![pngtree-mail-icon-vector-illustration-in-line-style-for-any-purpose-png-image_996816](https://www.instagram.com/pathepu_nikhil/)]
+
+<a href=![LI-In-Bug](https://github.com/pathepunikhil/Web-Application-using-AWS-Amplify-Lambda-API-Gateway-DynamoDB-and-IAM/assets/131676013/804c116e-f4ae-475b-a861-c0be5d10408a)" target="_blank">
+    <img src="www.linkedin.com/in/nikhil-pathepu" alt="LinkedIn Logo">
+</a>
+
 
 
 
