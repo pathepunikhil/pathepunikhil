@@ -8,7 +8,7 @@
   AWS || Jira || Jenkins|| Docker || Kubernetes || Linux || Git || Devops || Python || experience in AWS cloud, Terraform and monitoring tool ||
 ##  📫 How to reach me ...
 
-![logo](https://github.com/pathepunikhil/Web-Application-using-AWS-Amplify-Lambda-API-Gateway-DynamoDB-and-IAM/assets/131676013/e0983097-b9ad-4c7d-b62d-b534af656c9f)
+![logo](<img width="32" height="32" src="https://img.icons8.com/windows/32/linkedin.png" alt="linkedin"/www.linkedin.com/in/nikhil-pathepu>)
 [www.linkedin.com/in/nikhil-pathepu](url)
 <!---
 pathepunikhil/pathepunikhil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
